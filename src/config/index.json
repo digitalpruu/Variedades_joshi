@@ -64,13 +64,14 @@
       {
         "name": "Instagram",
         "description": "@brigithusma",
-        "icon": "/assets/images/insta.png"
+        "icon": "/assets/images/insta.png",
+        "url":"https://www.instagram.com/brigithusma?igsh=MWY3eW1uZTFnMjRpZg=="
       },
       {
         "name": "Facebook",
         "description": "Variedades Joshi personalizados",
         "icon": "/assets/images/facebook.jpg",
-        "url":""
+        "url":"https://www.facebook.com/profile.php?id=61564876934921&mibextid=ZbWKwL"
       }
     ]
   },
